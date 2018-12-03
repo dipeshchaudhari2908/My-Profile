@@ -1,0 +1,102 @@
+
+h1{
+
+font-size: 50px;
+color:red;
+font-family: 'Unlock', cursive;
+
+}
+
+h2{
+
+font-weight: bolder;
+color: green;
+font-family: 'Black And White Picture', sans-serif;
+}
+body{
+
+color:orange;
+
+
+
+}
+img{
+
+
+	border-radius: 50%;
+}
+p{
+
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+}
+
+ul{
+
+list-style: none;
+}
+
+ul>ol{display: inline;}
+ul>li{display: inline;}
+ol>li{display: inline;}
+ul>ol{
+	text-decoration: none;}
+i{
+
+	color:red;
+	font-size: 50px;
+}
+
+#logo{
+
+
+	width:140px;
+}
+.member{
+
+	width: 80px;
+	height: 80px;
+	 border-radius: 50px;
+}
+
+div{
+
+
+	
+	background-color: rgba(250,250,250,0,4);
+	box-shadow: 1px 10px 30px rgb(220,220,220);
+	width: 1000px;
+	margin: 20px auto;
+	padding: 20px 30px;
+	border-radius: 20px;
+	opacity: 1;
+
+}
+
+.btn{
+
+background-color: red;
+border-radius: 5px;
+padding: 8px 10px;
+
+
+}
+.btn:hover
+{
+
+background-color: yellow;
+
+}
+
+#abc:hover
+{
+
+	color: white;
+}
+
+
+
+
+
+
+
